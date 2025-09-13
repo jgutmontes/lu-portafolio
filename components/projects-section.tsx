@@ -4,43 +4,55 @@ import { Card, CardContent } from "@/components/ui/card"
 import { ExternalLink } from "lucide-react"
 
 const projects = [
-    {
-    title: "Flyer de San Valentín",
-    url:"https://www.canva.com/design/DAGG57u3D8I/2WbQAR1jQ_fKl6Vv8LhkdA/view?embed"
+  {
+    title: "Diseños Varios Crea",
+    url: "https://www.canva.com/design/DAGy4y4ciLc/K3H0Xb5JVWulolXohzwB4w/view?embed",
   },
   {
-    title: "Campaña Digital Corporativa",
-    url: "https://www.canva.com/design/DAGoqC6upo4/9mN5Uv0-nqd7URC4pvgXBA/view?embed",
+    title: "Navidad 2023",
+    url: "https://www.canva.com/design/DAF3hZ9iXDM/U2afDvE616MOJJCa90_80Q/view?embed",
   },
   {
-    title: "Estrategia de Branding",
-    url: "https://www.canva.com/design/DAF2VE_8V98/AjT7yGcOSQ5K-1pvL1_k6g/view?embed",
+    title: "Diseño Extra (préstamos)",
+    url: "https://www.canva.com/design/DAF5yDp30NA/stw4HqKgcRlAA-Wd0A8FiQ/view?embed",
   },
   {
-    title: "Campaña Redes Sociales",
-    url: "https://www.canva.com/design/DAGWeZdsmV8/_CpIrl1MjX1WJWh6QFMztg/view?embed",
+    title: "Diseños Varios Extra",
+    url: "https://www.canva.com/design/DAGy47OH94Q/Ac49TudEYsDQuTfrnQj_cg/view?embed",
   },
   {
-    title: "Diseño Publicitario",
-    url: "https://www.canva.com/design/DAGFVqzick4/lEk2SUNXuqsqyfcBMDyB2w/view?embed",
+    title: "Video Año Nuevo 2023",
+    url: "https://www.canva.com/design/DAF4LnY4S2Y/ZDffKQcE8ObON_cFV5RnRA/view?embed",
   },
   {
-    title: "Contenido Multimedia",
-    url: "https://www.canva.com/design/DAF97HM-zbY/7fq4sMpCH_z4Cwku7xogDw/view?embed",
+    title: "Diseño Varios Extra y Crea",
+    url: "https://www.canva.com/design/DAGB--n0VRM/6hYfoQP3d_jniMbboCicRQ/view?embed",
   },
   {
-    title: "Campaña de Marketing",
-    url: "https://www.canva.com/design/DAGBeNQkpWQ/zDzunkH4TrLM9PT5knyQ6Q/view?embed",
+    title: "Diseño Crea Ig (inversiones)",
+    url: "https://www.canva.com/design/DAGOCVe1Bx4/tLQuApniDYMAzLu9ivKgYQ/view?embed",
   },
   {
-    title: "Identidad Visual",
+    title: "Nueva Dirección",
     url: "https://www.canva.com/design/DAF6z3XOw5Q/Pt9ze4ZVbfnBGwktu0UnvQ/view?embed",
   },
   {
-    title: "Estrategia Digital",
-    url: "https://www.canva.com/design/DAGZKlxyg8c/VlMylnN7tndbPCBZrMeqQ/view?embed",
+    title: "Gráfica Inversión",
+    url: "https://www.canva.com/design/DAGy44ON7M0/JeSYedWh_qq4QN9VR7hhog/view?embed",
   },
-]
+  {
+    title: "Diseño Crea Capital (IG)",
+    url: "https://www.canva.com/design/DAGNXwQkfrM/XTNTfW-o2yb7S6WPJD1RXg/view?embed",
+  },
+  {
+    title: "Crea Capital Video IG",
+    url: "https://www.canva.com/design/DAGBeNQkpWQ/zDzunkH4TrLM9PT5knyQ6Q/view?embed",
+  },
+  {
+    title: "Diseño Pasos para invertir",
+    url: "https://www.canva.com/design/DAGOEYlpr-s/szzx7I_R4h9E9DgjcPHFdA/view?embed",
+  },
+];
 
 export function ProjectsSection() {
   return (
