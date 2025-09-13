@@ -20,7 +20,7 @@ export function HeroSection() {
         <div className="space-y-8">
           <div className="space-y-4">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-balance">
-              <span className="text-secondary">Lucia Andrea</span>
+              <span className="text-secondary">Lucia</span>
               <br />
               <span className="text-foreground">Cruz Quispe</span>
             </h1>

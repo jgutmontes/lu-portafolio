@@ -25,7 +25,7 @@ const contactInfo = [
     icon: Linkedin,
     label: "LinkedIn",
     value: "Lucia Cruz",
-    href: "https://linkedin.com/in/lucia-cruz",
+    href: "https://www.linkedin.com/in/lucia-cruz-0a892a148/",
   },
 ]
 
