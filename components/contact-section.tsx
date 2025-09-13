@@ -25,7 +25,7 @@ const contactInfo = [
     icon: Linkedin,
     label: "LinkedIn",
     value: "Lucia Cruz",
-    href: "https://www.linkedin.com/in/lucia-cruz-0a892a148/",
+    href: "https://www.linkedin.com/in/lucia-andrea-cruz-quispe-0a892a148?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   },
 ]
 
