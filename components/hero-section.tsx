@@ -20,9 +20,7 @@ export function HeroSection() {
         <div className="space-y-8">
           <div className="space-y-4">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-balance">
-              <span className="text-secondary">Lucia</span>
-              <br />
-              <span className="text-foreground">Cruz Quispe</span>
+              <span className="text-secondary">Lucia Cruz Quispe</span>
             </h1>
             <p className="text-xl sm:text-2xl text-muted-foreground font-medium">
               Licenciada en Marketing y Administración

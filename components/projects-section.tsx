@@ -4,6 +4,10 @@ import { Card, CardContent } from "@/components/ui/card"
 import { ExternalLink } from "lucide-react"
 
 const projects = [
+    {
+    title: "Flyer de San Valentín",
+    url:"https://www.canva.com/design/DAGG57u3D8I/2WbQAR1jQ_fKl6Vv8LhkdA/view?embed"
+  },
   {
     title: "Campaña Digital Corporativa",
     url: "https://www.canva.com/design/DAGoqC6upo4/9mN5Uv0-nqd7URC4pvgXBA/view?embed",
